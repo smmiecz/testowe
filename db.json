@@ -1,0 +1,23 @@
+{"telefony":[
+  {
+    "id": "1",
+    "telefon": "602413554",
+    "wiadomosc": "My name is zKoder1"
+  },
+  {
+    "id": "2",
+    "telefon": "602413554",
+    "wiadomosc": "My name is zKoder2"
+  },
+  {
+    "id": "3",
+    "telefon": "602413554",
+    "wiadomosc": "My name is zKoder3"
+  },
+  {
+    "id": "4",
+    "telefon": "602413554",
+    "wiadomosc": "My name is zKoder4"
+  }
+]
+}
